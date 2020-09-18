@@ -1,6 +1,0 @@
-,name,y_pred,y_true
-0,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_B_final/test_data\images\IMG_1.jpg,1.0462102890014648,23.000003814697266
-1,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_B_final/test_data\images\IMG_2.jpg,1.123590111732483,52.000003814697266
-2,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_B_final/test_data\images\IMG_3.jpg,1.1358269453048706,60.999996185302734
-3,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_B_final/test_data\images\IMG_4.jpg,1.1850272417068481,94.99998474121094
-4,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_B_final/test_data\images\IMG_5.jpg,0.9813506007194519,81.99998474121094

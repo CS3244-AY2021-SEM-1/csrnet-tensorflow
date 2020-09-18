@@ -1,0 +1,4 @@
+,name,y_pred,y_true
+0,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_A_final/test_data\images\IMG_1.jpg,0.861809492111206,172.00001525878906
+1,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_A_final/test_data\images\IMG_2.jpg,0.8923606872558594,1110.0
+2,C:/Users/Natalie/Documents/GitHub/cnn-model/data/SHT\part_A_final/test_data\images\IMG_3.jpg,0.3766176700592041,301.0

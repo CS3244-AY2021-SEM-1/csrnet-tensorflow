@@ -29,7 +29,7 @@ def get_input(path):
 
 def get_output(path):
     """
-    path: ground truth path
+    path: consolidated path
     import ground truth density map and resize it
     """
     
@@ -54,7 +54,7 @@ def listDataset(path, batch_size = 64):
     
     for input_path in batch_paths:
         inputs = get_input(input_path)
-        outputs = get_output(input_path.replace('.jpg','.h5').replace('images','ground_truth'))
+        outputs = get_output(input_path.replace('.jpg','.h5').replace('images','consolidated'))
         batch_input += [inputs]
         batch_output += [outputs]
         

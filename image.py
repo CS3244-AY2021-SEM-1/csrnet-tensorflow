@@ -62,3 +62,5 @@ def listDataset(path, batch_size = 64):
     batch_y = np.array(batch_output)
     
     return (batch_x, batch_y)
+
+#testing

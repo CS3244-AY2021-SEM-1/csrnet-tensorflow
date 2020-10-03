@@ -63,4 +63,3 @@ def listDataset(path, batch_size = 64):
     
     return (batch_x, batch_y)
 
-#testing
